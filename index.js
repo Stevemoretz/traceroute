@@ -65,11 +65,11 @@ const main = async () => {
     }
 
     const locations = [
-        // // Iran, Qazvin
-        // "www.ikiu.ac.ir",
-        // // 1200 E California Blvd, Pasadena, CA 91125, United States
-        // "www.caltech.edu",
-        // // Cambridge, MA, United States
+        // Iran, Qazvin
+        "www.ikiu.ac.ir",
+        // 1200 E California Blvd, Pasadena, CA 91125, United States
+        "www.caltech.edu",
+        // Cambridge, MA, United States
         "www.mit.edu"
     ];
     for (const location of locations) {
