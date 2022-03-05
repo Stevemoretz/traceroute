@@ -1,7 +1,7 @@
 ### Download
 
 ```
-git clone https://github.com/Stevemoretz/subnet-broadcast-host-calculator
+git clone https://github.com/Stevemoretz/traceroute
 ```
 
 -----
